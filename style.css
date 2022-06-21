@@ -14,7 +14,9 @@ ul {
 
 body {
     font-family: 'Courier New', Courier, monospace;
-    background-image: url(./image/img01.jpg);
+    background-image: 
+        url(./filter1.png),
+        url(./image/img01.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
@@ -25,7 +27,7 @@ body {
     color: #fff;
 }
 
-.date{
+.date-wrapper{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 56px;
 }
