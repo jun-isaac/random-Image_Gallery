@@ -1,6 +1,4 @@
-# Random Image Gallery!
-![preview](https://user-images.githubusercontent.com/100373800/174712261-f6cb1e94-f325-4bf1-a235-7501b22d09f5.jpg)
-https://jun-isaac.github.io/random-Image_Gallery/
+# Random Image Gallery
 
 ## 소개
 - 랜덤하게 이미지가 변경되는 갤러리

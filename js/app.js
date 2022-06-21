@@ -8,6 +8,12 @@ const img_url = [
     'image/img06.jpg',
 ];
 
+const author = [
+    'pascal Elpidio',
+    'Jenningje Lutfi',
+    'Nina Valentina'
+]
+
 
 $(function () {
 
