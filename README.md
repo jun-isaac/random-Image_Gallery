@@ -1,4 +1,5 @@
 # Random Image Gallery!
+![preview](https://user-images.githubusercontent.com/100373800/174710991-90e2e2be-5599-45f3-abdb-ec616173456f.jpg)
 https://jun-isaac.github.io/random-Image_Gallery/
 
 ## 소개
